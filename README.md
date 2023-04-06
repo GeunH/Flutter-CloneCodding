@@ -1,6 +1,8 @@
 # Flutter-using-dart
 use Flutter with dart programming language.
 
+2023-04-06 Dart 프로그래밍 언어 익히기
+
      변수의 재할당이 되지 못하도록 하는 예약어 final 
      
      dynamic - 어떤 변수형이 들어올지 모를때 사용
