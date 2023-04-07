@@ -34,6 +34,7 @@ use Flutter with dart programming language.
         1,
         if(true) 5 가 가능함.
         ];     
+     
      var 변수형이 String일때 ex) "Hello My name is $name "형태라면 $뒤에 이미 존재하는 변수를 사용하여 추가가 가능.
      
      collection for문을 사용하여 이미 있는 변수를 끌어다 List에 추가 가능.
@@ -44,6 +45,17 @@ use Flutter with dart programming language.
           'darren',
           for(var friend in oldFriends) " $friend",
      ];
+
+     Named Parameter  -> default value 사용 또는 required 변수를 사용한다.
+     
+     void good({int a = 1, int b= 3 } ) // or required itn a, required int b
+     {
+        print( a+ b);
+     }
+
+     void main() {
+       good( a : 1 , b : 3);
+     }
      
      
      
