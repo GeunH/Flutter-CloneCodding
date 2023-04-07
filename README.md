@@ -36,6 +36,14 @@ use Flutter with dart programming language.
         ];     
      var 변수형이 String일때 ex) "Hello My name is $name "형태라면 $뒤에 이미 존재하는 변수를 사용하여 추가가 가능.
      
+     collection for문을 사용하여 이미 있는 변수를 끌어다 List에 추가 가능.
+     var oldFriends = ['nico', 'lynn'];
+     var newFriends = [
+          'lewis',
+          'ralph',
+          'darren',
+          for(var friend in oldFriends) " $friend",
+     ];
      
      
      
