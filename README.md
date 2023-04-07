@@ -23,3 +23,20 @@ use Flutter with dart programming language.
      
      num 은 int or double이 될 수 있음.
      num은 int, double의 부모 class임.
+
+2023-04-07 
+     List 이해하기 
+     선언 -> List<int> 변수명 = [초기값];
+     
+     collection if 문을 사용하여 초기화에 if 문 사용가능
+     collection if      
+        var numbers [ 
+        1,
+        if(true) 5 가 가능함.
+        ];     
+     var 변수형이 String일때 ex) "Hello My name is $name "형태라면 $뒤에 이미 존재하는 변수를 사용하여 추가가 가능.
+     
+     
+     
+     
+     
