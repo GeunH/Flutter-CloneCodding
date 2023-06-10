@@ -7,8 +7,9 @@ Second Project ( Stateless Widget )
 ![image](https://github.com/GeunH/Flutter-using-dart/assets/114638557/07ac6749-3904-49fa-b082-3696d9999538)
 
 Third Project ( Stateful Widget )
-
-![image](https://github.com/GeunH/Flutter-using-dart/assets/114638557/76b6d013-5209-43e5-89ee-4bf514826a18)
+<p align="center">
+  <img src = "https://github.com/GeunH/Flutter-using-dart/assets/114638557/76b6d013-5209-43e5-89ee-4bf514826a18" alt = "Image1" width= "300" />
+</p>
 
 Fourth Project ( Stateful Widget )
 <p align="center">
