@@ -28,11 +28,8 @@ Fifth Project ( Stateful Widget , Stateless Widget, url_launcher, shared_prefere
 
 Final Project ( Stateful Widget , Stateless Widget, url_launcher, Future )
 <p align="center">
-  <video controls width="480">
-    <source src="https://github.com/GeunH/Flutter-using-dart/assets/114638557/23a4598b-634c-4677-9b2a-03d84137d06a" type="video/mp4">
-  </video>
+  <img src="https://github.com/GeunH/Flutter-using-dart/assets/114638557/cc11ba78-128b-4f9c-a2a1-8d8c232f8072" alt="Image 1" width="250" />
+  <img src="https://github.com/GeunH/Flutter-using-dart/assets/114638557/82e3cab9-c207-4e8d-a4f7-b1b7cf2c7144" alt="Image 2" width="250" />
+  <img src="https://github.com/GeunH/Flutter-using-dart/assets/114638557/16efee9d-5322-4883-8bfe-61c319a85838" alt="Image 3" width="250" />
 </p>
-
-
-
 
